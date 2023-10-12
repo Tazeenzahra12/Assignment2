@@ -1,0 +1,2 @@
+a list of cars of a given brand saved in file; 
+Car [id=1, Make=Hundai, Model=Mira, YearofManufacture=2000, Color=Red, Price=25000.0, RegistrationNumber=abc1]

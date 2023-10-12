@@ -1,0 +1,2 @@
+a list of cars of a given year of manufacture, the price of which is higher than the specified by one saved in file;
+Car [id=4, Make=Toyota, Model=Mehran, YearofManufacture=2020, Color=Black, Price=25000.0, RegistrationNumber=abc4]
